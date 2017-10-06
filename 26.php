@@ -17,3 +17,4 @@ foreach ($arr as $key => $value) {
     echo $value . "<br>";
   }
 }
+echo $result;
